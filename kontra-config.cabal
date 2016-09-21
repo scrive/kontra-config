@@ -1,12 +1,12 @@
 name:                kontra-config
 version:             0.1
-synopsis:            Configuration management
--- description:      TODO
+synopsis:            JSON config file parsing based on unjson
+description:         A library for reading JSON configuration files. Based on unjson.
 homepage:            https://github.com/scrive/kontra-config
 license:             BSD3
 license-file:        LICENSE
 author:              Scrive AB
-maintainer:          Gracjan Polak <gracjan@scrive.com>
+maintainer:          Gracjan Polak <gracjan@scrive.com>, Jonathan Jouty <jonathan@scrive.com>, Mikhail Glushenkov <mikhail@scrive.com>
 copyright:           Scrive AB
 category:            Data
 build-type:          Simple
